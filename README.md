@@ -4,6 +4,8 @@ This repository contains simple python programs created while learning python fu
 ## Program included
 - Factorial program
 - Fibonacci sequence program
+- Multiplication table program
+- Odd or even number checker program
 - Prime number check program
 
 ## Author
